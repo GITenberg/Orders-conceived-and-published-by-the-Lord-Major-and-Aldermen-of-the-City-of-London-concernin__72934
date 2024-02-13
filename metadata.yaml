@@ -1,0 +1,33 @@
+_repo: Orders-conceived-and-published-by-the-Lord-Major-and-Aldermen-of-the-City-of-London-concernin__72934
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72934'
+language: en
+pgterms:marc905: 20230227185140author
+pgterms:marc906: '1665'
+pgterms:marc907: GB
+production_note: Daniel Lowe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJames Flesher, $c1665.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Orders conceived and published by the Lord Major and Aldermen of the City of
+  London, concerning the infection of the plague
+url: http://www.gutenberg.org/ebooks/72934
